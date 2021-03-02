@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run" type="Java Scratch">
+    <option name="MAIN_CLASS_NAME" value="Prototype1Application.java" />
+    <module name="prototype1" />
+    <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/prototype1/src/main/java/com/team23/prototype1/Prototype1Application.java" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
